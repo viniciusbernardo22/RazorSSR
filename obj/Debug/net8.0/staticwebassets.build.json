@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Pz5Pd2vyvkjQUG282ce7qN2eYTbFyjlND5eKU8LbTWU=",
+  "Source": "Razor",
+  "BasePath": "_content/Razor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Razor\\wwwroot",
+      "Source": "Razor",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Courses\\Razor\\wwwroot\\",
+      "BasePath": "_content/Razor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -15,4 +15,5 @@ app.Run();
 void addServices(WebApplicationBuilder builder)
 {
     builder.Services.AddRazorPages();
+  
 }

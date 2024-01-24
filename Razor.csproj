@@ -11,4 +11,8 @@
     <Folder Include="wwwroot\imgs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Blazor.Bootstrap" Version="1.10.5" />
+  </ItemGroup>
+
 </Project>

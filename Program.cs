@@ -15,5 +15,7 @@ app.Run();
 void addServices(WebApplicationBuilder builder)
 {
     builder.Services.AddRazorPages();
-  
+    builder.Services.AddBlazorBootstrap();
+
+
 }

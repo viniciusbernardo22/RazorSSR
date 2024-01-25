@@ -1,15 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Razor.Pages
+namespace Razor.Pages.Shared
 {
-    public class Index : PageModel
+    public class _LayoutModel : PageModel
     {
-      public void OnGet()
+        public void OnGet()
         {
-
         }
     }
 }
-
-
